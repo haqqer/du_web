@@ -33,6 +33,9 @@ hr{
 .navatas i{
     color: hsl(0, 0%, 74%);
 }
+.navatas i:hover{
+    color: black;
+}
 .sosmed i{
     color: hsl(0, 0%, 74%);
 }
